@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<data>
+  <authors>
+    <author name="Баймурат"/>
+  </authors>
+  <genres>
+    <genre name="Хоррор"/>
+  </genres>
+  <books>
+    <book title="1984">
+      <price>1984</price>
+      <author>Анонимус </author>
+      <genre>История </genre>
+    </book>
+    <book title="Война и Общество ">
+      <price>5031</price>
+      <author>Лев Толстой </author>
+      <genre>survival</genre>
+    </book>
+  </books>
+  <customers>
+    <customer name="Любитель хоррора">
+      <address>
+        <country>РФ</country>
+        <city>Москоу </city>
+        <street>Арбат</street>
+        <house>52</house>
+        <apartN>102</apartN>
+      </address>
+      <basket/>
+    </customer>
+  </customers>
+  <feedbacks>
+    <feedback>
+      <text>Беееавылфжаоф</text>
+      <grade>5</grade>
+    </feedback>
+  </feedbacks>
+</data>
