@@ -1,0 +1,47 @@
+{
+    "authors": [
+        {
+            "name": "Баймурат",
+            "books": []
+        }
+    ],
+    "genres": [
+        {
+            "name": "Хоррор",
+            "books": []
+        }
+    ],
+    "books": [
+        {
+            "title": "1984",
+            "price": 1984,
+            "author": "Анонимус ",
+            "genre": "История "
+        },
+        {
+            "title": "Война и Общество ",
+            "price": 5031,
+            "author": "Лев Толстой ",
+            "genre": "survival"
+        }
+    ],
+    "customers": [
+        {
+            "name": "Любитель хоррора",
+            "address": {
+                "country": "РФ",
+                "city": "Москоу ",
+                "street": "Арбат",
+                "house": "52",
+                "apartN": "102"
+            },
+            "basket": []
+        }
+    ],
+    "feedbacks": [
+        {
+            "text": "Беееавылфжаоф",
+            "grade": 5
+        }
+    ]
+}
